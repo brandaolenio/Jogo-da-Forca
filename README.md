@@ -1,1 +1,3 @@
-# Jogo-da-Forca
+<h1 align='center'>Jogo da Forca</h1>
+<p align='justify'>Jogo da forca com utilização de arquivo txt que contém as palavras a serem usadas no jogo e com 2 dicas para cada palavra; essas dicas também estão no arquivo txt. O programa também possui ranking com a classificação dos jogadores que leva em consideração a quantidade de vitórias e, em caso de empate em vitórias, a menor quantidade de derrotas. Quando iniciada a partida o usuário poderá solicitar as dicas disponíveis. Se solicitar mais do que 2 dicas, o programa começará a retornar uma mensagem nerd de boa sorte. Os usuários poderão se reversar em partidas e o ranking continuará sendo atualizado. O usuário poderá errar por até 5 vezes durante a partida. A partida se encerra caso o usuário erre por 5 vezes, seguidas ou não, ou caso acerte a palavra, o que ocorrer primeiro. A cada erro, uma parte do corpo de uma figura aparecerá na forca </p>
+  
